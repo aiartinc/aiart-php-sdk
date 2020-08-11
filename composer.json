@@ -1,0 +1,16 @@
+{
+  "name": "aiartinc/aiart-php-sdk",
+  "description": "Wrapper for aicli which directly accesses aipayd",
+  "homepage": "https://www.aiart.io",
+  "require": {
+    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0"
+  },
+  "type": "library",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Team AI Art Inc",
+      "email": "hamilton@aiart.io"
+    }
+  ]
+}
